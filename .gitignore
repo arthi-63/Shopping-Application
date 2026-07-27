@@ -3,3 +3,8 @@ testenv/
 __pycache__/
 *.pyc
 .vscode/
+# Original datasets
+data/amazon_products.csv
+data/amazon_categories.csv
+# Database files
+database/*.db
